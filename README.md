@@ -11,8 +11,10 @@ Several studies have examined the variation and historical development of geniti
 **2:** Rosenbach (2002) analyzed the historical competition between the two genitive forms, noting a increase in the use of the of-genitive in written English, and again an importance of certain factors which decided which genitive was used more oftenly, being animacy, topicality and possesive relations.
 
 ## Research question and hypotheses
+
 **Research question:** How does the relative frequency of the Saxon Genitive ('s) and the of-genitive (of) in English texts differ between the texts
 from the 19th century (1800-1849) and the 20st century (1950-1999)?
+
 **Hypothesis:** Texts from the 20th century will use the of-genitive proportionally more often than texts from the 19th century.
 
 ## Method
