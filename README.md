@@ -5,7 +5,10 @@ This project investigates grammatical simplification in English over time by com
 
 ## Background information
 Several studies have examined the variation and historical development of genitive constructions in English:
+
 **1:** Kreyer, (2003) found that the genitive used varies depending on the level of human involvement, and processability.
+
+**2:** Rosenbach (2002) analyzed the historical competition between the two genitive forms, noting a increase in the use of the of-genitive in written English, and again an importance of certain factors which decided which genitive was used more oftenly, being animacy, topicality and possesive relations.
 
 ## Research question and hypotheses
 **Research question:** How does the relative frequency of the Saxon Genitive ('s) and the of-genitive (of) in English texts differ between the texts
