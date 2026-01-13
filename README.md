@@ -32,7 +32,7 @@ Only fiction and non-fiction books will be included to ensure comparability.
 Texts will be limited to those originally written in English.
 
 **Analysis:**
-Frequencies will be normalized per 500 words to allow comparison across texts of varying lengths.
+Frequencies will be normalized per 10.000 words to allow comparison across texts of varying lengths.
 
 
 
