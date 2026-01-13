@@ -8,7 +8,7 @@ Several studies have examined the variation and historical development of geniti
 
 **1:** Kreyer, (2003) found that the genitive used varies depending on the level of human involvement, and processability.
 
-**2:** Rosenbach (2008) analyzed the historical competition between the two genitive forms, noting a increase in the use of the of-genitive in written English, and again an importance of certain factors which decided which genitive was used more oftenly, being animacy, topicality and possesive relations.
+**2:** Rosenbach (2008) analyzed and discovered certain factors which decided which genitive was used more oftenly, being animacy, topicality and possesive relations.
 
 ## Research question and hypotheses
 
